@@ -1,3 +1,3 @@
-# Testing
+# Hello, I'm Maryam 
 
-some text 
+A high school student studying computer science
