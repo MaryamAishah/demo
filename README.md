@@ -1,7 +1,3 @@
-# Testing
+# Hello, I'm Maryam 
 
-some text 
-
-# Test 2
-
-Branching
+A high school student studying computer science
